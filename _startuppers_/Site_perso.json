@@ -1,0 +1,17 @@
+{
+  "Terminal":[
+    "cd /Users/philippeperret/Sites/AlwaysData/PhilippePerret_JK;bundle exec jekyll serve --livereload",
+    "cd /Users/philippeperret/Sites/AlwaysData/PhilippePerret_JK",
+    "cd /Users/philippeperret/Sites/AlwaysData/PhilippePerret_JK"
+  ],
+  "Atom":[
+    "/Users/philippeperret/Sites/AlwaysData/PhilippePerret_JK"
+  ],
+  "Safari":[
+    "https://www.philippeperret.fr"
+  ],
+  "Ruby":[
+    "sleep 10",
+    "system('open -a Firefox http://localhost:4000')"
+  ]
+}

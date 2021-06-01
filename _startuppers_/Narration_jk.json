@@ -1,0 +1,15 @@
+{
+  "Terminal":[
+    "cd /Users/philippeperret/Sites/AlwaysData/Narration_JK;bundle exec jekyll serve --livereload",
+    "cd /Users/philippeperret/Sites/AlwaysData/Narration_JK",
+    "cd /Users/philippeperret/Sites/AlwaysData/Narration_JK"
+  ],
+  "Atom":[
+    "/Users/philippeperret/Sites/AlwaysData/Narration_JK"
+  ],
+  "Ruby":[
+    "sleep 10",
+    "system('open -a Firefox http://localhost:4000')"
+  ]
+
+}

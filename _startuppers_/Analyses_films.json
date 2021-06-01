@@ -1,0 +1,19 @@
+{
+  "Terminal":[
+    "cd /Users/philippeperret/Sites/Analyses_Films_WAS",
+    "cd /Users/philippeperret/Sites/Analyses_Films_WAS",
+    "ruby /Users/philippeperret/Sites/Analyses_Films_WAS/_dev_/scripts/sass_all.rb"
+  ],
+  "Atom":[
+    "/Users/philippeperret/Sites/Analyses_Films_WAS"
+  ],
+  "Aperçu":[],
+  "Markdown": [
+    "/Users/philippeperret/Sites/Analyses_Films_WAS/_dev_/Manuel/Manuel_utilisateur.md",
+    "/Users/philippeperret/Sites/Analyses_Films_WAS/_dev_/Manuel/Manuel_developper.md"
+  ],
+  "Safari":[
+    "http://localhost/Analyses_Films_WAS"
+  ]
+
+}

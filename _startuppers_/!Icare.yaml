@@ -1,0 +1,11 @@
+---
+  Terminal:
+    - "cd /Users/philippeperret/Sites/AlwaysData/Icare_2020"
+    - "cd /Users/philippeperret/Sites/AlwaysData/Icare_2020"
+  Atom:
+    - "/Users/philippeperret/Sites/AlwaysData/Icare_2020"
+  Overview:
+    - "/Users/philippeperret/Sites/AlwaysData/Icare_2020/_dev_/Manuel/Manuel_developper.pdf"
+  Safari:
+    # - "file:///Users/philippeperret/Sites/AlwaysData/Icare_2020/spec/features/concours/per_people/_it_cases_/__all_it-cases__.html"
+    # - "http://localhost/AlwaysData/Icare_2020/"

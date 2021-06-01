@@ -1,0 +1,18 @@
+{
+  "Terminal":[
+    "cd /Users/philippeperret/Sites/ScoreTagger",
+    "cd /Users/philippeperret/Sites/ScoreTagger",
+    "ruby /Users/philippeperret/Sites/ScoreTagger/_dev_/scripts/sass_all.rb"
+  ],
+  "Atom":[
+    "/Users/philippeperret/Sites/ScoreTagger"
+  ],
+  "Aperçu":[],
+  "Markdown": [
+    "/Users/philippeperret/Sites/ScoreTagger/_dev_/Manuel/Manuel_ScoreTagger.md"
+  ],
+  "Safari":[
+    "http://localhost/ScoreTagger"
+  ]
+
+}
